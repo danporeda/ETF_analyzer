@@ -13,3 +13,5 @@ PYPL Cumulative Returns:
 ETF Cumulative Returns:
 ![ETF Cumulative Return](ETF_cum_ret.png)
 
+And proof that the screen shots were taken from a Voila browser:
+![Voila Browser](voila_screen_shot.png)
